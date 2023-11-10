@@ -55,11 +55,7 @@ document.addEventListener("DOMContentLoaded", function () {
     if (!isIndexPage && userLoggedIn !== "true") {
         // O usuário não está logado e não está na página index,
         // crie e exiba o modal
-        showModalWithVideo(
-            "Entre no site oficial para desfrutar de todas as funcionalidades.",
-            "Visite o site oficial",
-            "https://seusiteoficial.com"
-        );
+        
     } else if (userLoggedIn === "true") {
         // O usuário está logado, faça o que for necessário
 
