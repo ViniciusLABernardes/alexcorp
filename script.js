@@ -471,8 +471,8 @@ fetch('utils/destaqueAnime.json')
 // Carrega o destaque inicial
 carregarDestaqueAnime();
 
-// Atualiza o destaque a cada 24 horas (em milissegundos)
-setInterval(carregarDestaqueAnime, 24 * 60 * 60 * 1000);
+// Atualiza o destaque a cada 1 miunuto
+setInterval(carregarDestaqueAnime, 60 * 1000);
 
 //----------------------------------------MUDAR O NOME DO ANIME NA PAGINA ANIME PAGE-------------------------------------------//
 
