@@ -1,0 +1,1 @@
+function showModal(t){const e=document.getElementById("modal");document.getElementById("modal-text").textContent=t,e.style.display="block",window.onclick=function(t){var e=document.getElementById("modal");t.target===e&&(e.style.display="none")};document.getElementById("modal-close").onclick=function(){e.style.display="none"}}
