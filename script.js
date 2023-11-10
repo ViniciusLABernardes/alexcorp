@@ -55,11 +55,7 @@ document.addEventListener("DOMContentLoaded", function () {
     if (!isIndexPage && userLoggedIn !== "true") {
         // O usuário não está logado e não está na página index,
         // crie e exiba o modal
-        showModalWithVideo(
-            "Entre no site oficial para desfrutar de todas as funcionalidades.",
-            "Visite o site oficial",
-            "https://seusiteoficial.com"
-        );
+        
     } else if (userLoggedIn === "true") {
         // O usuário está logado, faça o que for necessário
 
@@ -471,8 +467,8 @@ fetch('utils/destaqueAnime.json')
 // Carrega o destaque inicial
 carregarDestaqueAnime();
 
-// Atualiza o destaque a cada 24 horas (em milissegundos)
-setInterval(carregarDestaqueAnime, 24 * 60 * 60 * 1000);
+// Atualiza o destaque a cada 1 miunuto
+setInterval(carregarDestaqueAnime, 60 * 1000);
 
 //----------------------------------------MUDAR O NOME DO ANIME NA PAGINA ANIME PAGE-------------------------------------------//
 
