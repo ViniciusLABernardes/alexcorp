@@ -1,7 +1,9 @@
-# [AlexCorp](https://www.seusiteoficial.com)
+# [AlexCorp demo](https://viniciuslabernardes.github.io/alexcorp/)
 
 Bem-vindo ao AlexCorp, seu destino para explorar informações detalhadas sobre personagens de anime. Descubra estatísticas como força, velocidade e habilidades, e participe de discussões na área de comentários.
-Nesta versão que estou disponibilizando, as funções de criar conta, logar-se, mandar mensagens ou curtir foram removidas. Para desfrutar do site por completo, acesse o link oficial clicando acima.
+Nesta versão que estou disponibilizando, as funções de criar conta, logar-se, mandar mensagens ou curtir foram removidas. Para desfrutar do site por completo, acesse o link oficial clicando abaixo.
+
+# [AlexCorp oficial(ainda não foi upado)](123432123123124)
 
 ## Recursos Principais
 
