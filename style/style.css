@@ -1778,7 +1778,7 @@ html {
     .userMessageArea .messageUser button {
         display: flex;
         flex-direction: column;
-        padding-left: 15px;
+        
         justify-content: center;
         align-items: center;
         font-size: 20px;
