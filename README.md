@@ -32,7 +32,7 @@ Nesta versão que estou disponibilizando, as funções de criar conta, logar-se,
  Para desfrutar do site por completo, acesse o link oficial clicando abaixo ⬇️ ⬇️ ⬇️.
 OBS: Se o navegador pedir, clique em "visit site". O site pode ficar fora do ar entre 00:00am até 08:00am. Obrigado pela atenção e compreensão. 
 
-# [AlexCorp oficial](https://d12e-2804-14c-161-23dc-78b2-552a-f1e5-ddff.ngrok-free.app/alexcorp/index.html)
+# [AlexCorp oficial](https://cc24-2804-14c-161-23dc-c1e0-5218-2f30-b019.ngrok-free.app/alexcorp/index.html)
 
 ## Recursos Principais
 
