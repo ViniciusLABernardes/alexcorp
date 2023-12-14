@@ -6,7 +6,7 @@ In this version that I am providing, the functions of creating an account, loggi
 To enjoy the site to the fullest, access the official link by clicking below ⬇️ ⬇️ ⬇️.
 Note: If your browser prompts, click on "visit site." The site may be offline between 12:00 am and 8:00 am. Thank you for your attention and understanding.
 
-# [AlexCorp oficial](https://cc24-2804-14c-161-23dc-c1e0-5218-2f30-b019.ngrok-free.app/alexcorp/index.html)
+# [AlexCorp oficial](https://8a84-2804-14c-161-23dc-4cf1-1432-e17d-7746.ngrok-free.app/alexcorp/)
 
 ## Key Features
 
